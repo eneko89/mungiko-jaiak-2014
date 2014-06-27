@@ -1,0 +1,103 @@
+/* Empty. Add your own CSS if you like */
+span.hour {
+	display: inline-block;
+	text-align: right;
+	padding-right: 17px;
+	font-weight: bold;
+	vertical-align: top;
+	line-height: 23px;
+	min-width: 58px;
+	max-width: 60px;
+}
+
+span.day {
+	min-width: 28px;
+	display: inline-block;
+	text-align: right;
+	padding-right: 10px;
+	font-weight: bold;
+}
+
+span.description {
+	display: inline-block;
+	width: 81%;
+	margin-right: -20%;
+}
+
+.bar-header{
+	padding-top: 8px;
+	height: 50px;
+}
+
+.bar-header h1.title{
+	top: 3px;
+}
+
+.has-header{
+	top: 50px 
+}
+
+#partyprogram .item {
+	line-height: 21px;
+}
+
+.item {
+	white-space: normal;
+}
+
+.bar .title + .buttons {
+	top: 8px;
+}
+
+.bar-subheader {
+	height: 45px;
+	border-bottom: 1px solid #ddd;
+	background-color: #f0f0f0;
+}
+
+.bar-subheader > .title {
+	font-size: 15px;
+}
+
+#transport .title1 {
+	font-weight: bold;
+}
+
+#transport .title2 {
+	margin-top: 10px;
+	margin-bottom: 3px;
+}
+
+#transport div {
+	line-height: 22px;
+}
+
+.telephone {
+	font-size: 20px;
+}
+
+#txosnaschedule .title1 {
+	font-size: 17px;
+}
+
+#tournaments .title1 {
+	font-weight: bold;
+	padding-bottom: 4px;
+}
+
+#tournaments .title2 {
+	line-height: 22px;
+	padding-bottom: 4px;
+}
+
+#tournaments .padding-left {
+	padding-left: 12px;
+}
+
+#about .title1 {
+	padding-bottom: 8px;
+}
+
+.address {
+	color: #4a87ee;
+}
