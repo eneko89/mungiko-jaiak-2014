@@ -1,6 +1,8 @@
 App of the local festivals of Mungia
 =====================
 
+![ScreenShot](/appslide.png)
+
 ## Installation
 
 This application uses Ionic framework. To use this project as is, first clone the repo from GitHub, then run:
