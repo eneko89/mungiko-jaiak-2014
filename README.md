@@ -1,4 +1,4 @@
-App of the local parties of Mungia 2014
+App of the local festivals of Mungia
 =====================
 
 ## Installation
