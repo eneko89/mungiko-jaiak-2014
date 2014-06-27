@@ -74,6 +74,7 @@ span.description {
 
 .telephone {
 	font-size: 20px;
+	color: #666;
 }
 
 #txosnaschedule .title1 {
@@ -98,6 +99,7 @@ span.description {
 	padding-bottom: 8px;
 }
 
-.address {
+#about span,
+#about a {
 	color: #4a87ee;
 }
